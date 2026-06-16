@@ -4,4 +4,4 @@ idna
 certifi
 charset-normalizer
 urllib3
-emoji
+flask
